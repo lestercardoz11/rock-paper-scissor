@@ -1,13 +1,11 @@
-Broken Rock Paper Scissors
---------------------------
+# Rock Paper Scissors
 
-Here is a URL to the broken version of this application:
+This basic project was done with regards to a course on Coursera, by University of Michigan.
 
-http://www.wa4e.com/code/rps/
+This is a basic PHP project to display a three page web application to play rock, paper, scissors.
 
-Here is a URL to a working version of this application:
+You must run these files in your PHP server. Make a folder under your htdocs folder and then place your files in that folder. The htdocs folder is in different locations depending on your web server:
 
-http://www.wa4e.com/solutions/rps/
-
+Windows XAMPP: c:\xampp\htdocs
 
 
